@@ -11,7 +11,7 @@ public class MainTest {
         int a = 2;
         int b = 2;
         int c = 2;
-        int expected = 5;
+        int expected = 6;
 
         // WHEN
         int actual = Main.add(a, b, c);
